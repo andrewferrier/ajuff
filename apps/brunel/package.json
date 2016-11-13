@@ -1,0 +1,14 @@
+{
+  "name": "Brunel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "",
+  "alexa": {
+    "applicationId":"amzn1.ask.skill.57b57d7f-caab-44a4-8f59-19066617e1c3"
+  },
+  "dependencies": {
+    "alexa-app": "^2.1.0"
+  }
+}

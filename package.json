@@ -6,7 +6,6 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "alexa-app": "^2.3.4",
     "alexa-app-server": "^2.2.4",
     "cfenv": "1.0.x",
     "express": "4.13.x"
