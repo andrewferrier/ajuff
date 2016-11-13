@@ -10,7 +10,7 @@ app.launch(function(req, res) {
 });
 
 app.intent('GetTime', {}, function(req, res) {
-    res.say('The time is unpredictable');
+    res.say('The time is unpredictable, ephemeral, and ultimately irrelevant.');
 });
 
 module.exports = app;
