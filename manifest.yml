@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: ajuff
-  host: ajuff
+  name: alexa-skill-brunel
+  host: alexa-skill-brunel
   disk_quota: 1024M
