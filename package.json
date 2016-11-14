@@ -3,12 +3,14 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "postinstall": "node_modules/recursive-install/recursive-install.js --skip-root"
   },
   "dependencies": {
     "alexa-app-server": "^2.2.4",
     "cfenv": "1.0.x",
-    "express": "4.13.x"
+    "express": "4.13.x",
+    "recursive-install": "^1.3.0"
   },
   "repository": {},
   "engines": {
